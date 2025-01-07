@@ -65,7 +65,7 @@ afterEvaluate{
                 from(components["release"]) // Specify which component (AAR in this case) to publish
                 groupId = "com.github.fakhriyuda" // Replace with your group's name
                 artifactId = "super-preview-compose" // The artifact name
-                version = "1.0.1" // The version of your library
+                version = "1.0.2" // The version of your library
             }
         }
 
